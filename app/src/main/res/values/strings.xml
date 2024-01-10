@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="abilities">Abilities</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="search">Search</string>
+    <string name="search_pokemon">Search pokemon name</string>
+    <string name="favourites">Favourites</string>
+    <string name="what_pokemon">What Pokemon \nare you looking for?</string>
+    <string name="placeholder_search">Search Pokemon, Type, Ability, etc</string>
+    <string name="news">Pokemon News</string>
+    <string name="view_all">View All</string>
+    <string name="pokemon_rumble">Pokemon Rumple Rush \nArrives Soon</string>
+    <string name="date">15 May 2019</string>
+
+</resources>
