@@ -21,7 +21,6 @@ fun BaseStats(
     modifier: Modifier = Modifier,
     pokemonInfo: Pokemon,
 ) {
-    val maxStatValue = pokemonInfo.stats.maxOf { it.baseStat }
     Column(
         modifier = modifier,
         verticalArrangement = Arrangement.spacedBy(12.dp)
@@ -43,7 +42,6 @@ fun BaseStats(
                 )
                 StatItem(
                     statValue = stat.baseStat,
-                    maxStatValue = maxStatValue,
                     statColor = parseStatToColor(stat)
                 )
             }

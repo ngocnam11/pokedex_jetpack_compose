@@ -17,11 +17,10 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun StatItem(
     statValue: Int,
-    maxStatValue: Int,
     statColor: Color,
     height: Dp = 16.dp,
 ) {
-    val curPercent = statValue / maxStatValue.toFloat()
+    val curPercent = statValue / 300f
     Box(
         modifier = Modifier
             .fillMaxWidth()
