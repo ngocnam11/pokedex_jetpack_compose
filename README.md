@@ -20,7 +20,7 @@ A Pokedex app using ViewModel, Room, DataStore, Retrofit and Navigation
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250" alt="Home">
+  <img src="screenshots/home_screen.png" width="250" alt="Home">
   <img src= "screenshots/favorite_screen.png" width="250" alt="Favorite"/>
   <img src= "screenshots/pokemon_list_screen.png" width="250" alt="Pokedex"/>
 </p>
